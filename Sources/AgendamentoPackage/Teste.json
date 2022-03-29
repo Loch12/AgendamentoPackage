@@ -1,0 +1,58 @@
+{
+  "id": "0b87ad5e-bae9-481a-a74f-b30cb0b81d6b",
+  "agendamento_proprio": true,
+  "nome": "Matheus Loch",
+  "cpf": "12133894705",
+  "data_nascimento": "1995-10-04",
+  "telefone": "27995325877",
+  "tempo_atendimento": 15,
+  "data": "2022-03-24 09:00:00",
+  "data_limite_confirmacao": "2022-03-23 09:00:00",
+  "data_confirmacao": "2022-03-17 17:27:52",
+  "tipo": {
+    "id": 1,
+    "descricao": "Presencial"
+  },
+  "status": {
+    "id": 2,
+    "descricao": "Confirmado"
+  },
+  "link": null,
+  "unidade": {
+    "id": "bce96b24-51c7-499a-8ec8-61fee4025bfc",
+    "nome": "Sistema de Informação Saúde",
+    "telefone": null,
+    "ativo": true,
+    "endereco": {
+      "id": 5,
+      "logradouro": "Rua Castelo Branco",
+      "numero": "1803",
+      "complemento": "Secretaria Municipal de Saúde",
+      "bairro": "Centro de Vila Velha",
+      "cidade": "Vila Velha",
+      "cep": "29100041",
+      "ponto_referencia": "CEMAS",
+      "uf": {
+        "uf": "ES",
+        "descricao": "Espírito Santo"
+      },
+      "link": null
+    }
+  },
+  "atendimento": null,
+  "servico": {
+    "id": "8555e732-6a8c-404b-9dcd-3b10efe26a80",
+    "nome": "Vacina Tríplice Viral",
+    "descricao": "<p>Vacina para garantir imunidade às doenças</p>",
+    "orientacoes": "<p>Levar CPF e o Cartão do SUS.</p>",
+    "ativo": true,
+    "tipos": [
+      {
+        "id": 1,
+        "descricao": "Presencial"
+      }
+    ]
+  },
+  "user_meet_link": null,
+  "user_short_meet_link": null
+}
